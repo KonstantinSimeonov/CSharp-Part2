@@ -5,7 +5,7 @@ The free course "C# Advanced" extends the previous course "C# Fundamentals" and 
 
 ## Course program homework
 
-### [01. Arrays](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/01.Arrays/01.Arrays)
+### [01. Arrays](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/01.Arrays)
 
 Collections, arrays, lists
 
@@ -13,26 +13,26 @@ Collections, arrays, lists
 
 Matrices, jagged arrays and multidimensional arrays
 
-### 03. [Methods](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/03.Methods)
+###	[03.Methods](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/03.Methods)
 
 Methods, return types, parameters
 
-### 04. [Numeral Systems](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/04.Numeral%20Systems)
+### [04.Numeral Systems](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/04.Numeral%20Systems)
 
 Decimal, binary, hexadecimal and conversion between different systems
 
-### 05. [Using Classes and Objects](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Using%20Classes%20and%20Objects)
+### [05.Using Classes and Objects](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Using%20Classes%20and%20Objects)
 
 Objects, classes, constructors, fields, properties, enumerations
 
-### 06. [Strings and Text Processing](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Strings%20and%20Text%20Processing)
+### [06.Strings and Text Processing](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Strings%20and%20Text%20Processing)
 
 Manipulating strings
 
-### 07. [Exception Handling](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Exception%20Headling)
+### [07.Exception Handling](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Exception%20Headling)
 
 Exceptions, handling and raising exceptions
 
-### 08. [Text Files](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Text%20Files)
+### [08.Text Files](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Text%20Files)
 
 Streams, reading and writing in text files
