@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01.Decimal_to_binary
+namespace _02.Binary_to_decimal
 {
     class Program
     {
@@ -35,8 +35,8 @@ namespace _01.Decimal_to_binary
         }
         static void Main(string[] args)
         {
-        //    long decNumber = long.Parse(Console.ReadLine());
-        //    Console.WriteLine(DecimalToBinary(decNumber));
+            //    long decNumber = long.Parse(Console.ReadLine());
+            //    Console.WriteLine(DecimalToBinary(decNumber));
             string binaryNumber = Console.ReadLine();
             Console.WriteLine(BinaryToDecimal(binaryNumber));
         }

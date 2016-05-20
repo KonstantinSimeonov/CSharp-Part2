@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01.Leap_year
 {
@@ -10,6 +6,16 @@ namespace _01.Leap_year
     {
         static void Main(string[] args)
         {
+            int yearInput = int.Parse(Console.ReadLine());
+
+            if (DateTime.IsLeapYear(yearInput) == true)
+            {
+                Console.WriteLine("Leap");
+            }
+            else
+            {
+                Console.WriteLine("Common");
+            }
         }
     }
 }
