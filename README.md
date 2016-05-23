@@ -25,14 +25,14 @@ Decimal, binary, hexadecimal and conversion between different systems
 
 Objects, classes, constructors, fields, properties, enumerations
 
-### [06.Strings and Text Processing](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Strings%20and%20Text%20Processing)
+### [06.Strings and Text Processing](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/06.Strings%20and%20Text%20Processing)
 
 Manipulating strings
 
-### [07.Exception Handling](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Exception%20Headling)
+### [07.Exception Handling](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/07.Exception%20Headling)
 
 Exceptions, handling and raising exceptions
 
-### [08.Text Files](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/05.Text%20Files)
+### [08.Text Files](https://github.com/tpulkov/CSharp-Part2/tree/master/homework/08.Text%20Files)
 
 Streams, reading and writing in text files
