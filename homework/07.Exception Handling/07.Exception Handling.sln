@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Square-root", "01.Square-root\01.Square-root.csproj", "{48BBFADB-EF2D-4C98-B63B-7711D43C9069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Enter-numbers", "02.Enter-numbers\02.Enter-numbers.csproj", "{45432322-7BF6-42BF-97B8-E214F9C12947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Read-file-contents", "03.Read-file-contents\03.Read-file-contents.csproj", "{DC5E3E24-4C26-44CB-AC18-28A7BB10F545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BBFADB-EF2D-4C98-B63B-7711D43C9069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBFADB-EF2D-4C98-B63B-7711D43C9069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBFADB-EF2D-4C98-B63B-7711D43C9069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBFADB-EF2D-4C98-B63B-7711D43C9069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45432322-7BF6-42BF-97B8-E214F9C12947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45432322-7BF6-42BF-97B8-E214F9C12947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45432322-7BF6-42BF-97B8-E214F9C12947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45432322-7BF6-42BF-97B8-E214F9C12947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5E3E24-4C26-44CB-AC18-28A7BB10F545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5E3E24-4C26-44CB-AC18-28A7BB10F545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5E3E24-4C26-44CB-AC18-28A7BB10F545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5E3E24-4C26-44CB-AC18-28A7BB10F545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

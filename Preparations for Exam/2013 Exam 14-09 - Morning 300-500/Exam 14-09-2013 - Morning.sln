@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1-Multiverse-Communication", "Problem 1-Multiverse-Communication\Problem 1-Multiverse-Communication.csproj", "{43765061-B102-44F5-A5FB-C3745D43F098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2-Magic-Words", "Problem 2-Magic-Words\Problem 2-Magic-Words.csproj", "{28AD11F4-99F2-4CF6-86FA-A7D964F3CC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5-Featuring-with-Grisko", "Problem 5-Featuring-with-Grisko\Problem 5-Featuring-with-Grisko.csproj", "{B37F7E0A-7636-4B7C-8701-E14DC8C00979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43765061-B102-44F5-A5FB-C3745D43F098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43765061-B102-44F5-A5FB-C3745D43F098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43765061-B102-44F5-A5FB-C3745D43F098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43765061-B102-44F5-A5FB-C3745D43F098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AD11F4-99F2-4CF6-86FA-A7D964F3CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AD11F4-99F2-4CF6-86FA-A7D964F3CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AD11F4-99F2-4CF6-86FA-A7D964F3CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AD11F4-99F2-4CF6-86FA-A7D964F3CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37F7E0A-7636-4B7C-8701-E14DC8C00979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37F7E0A-7636-4B7C-8701-E14DC8C00979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37F7E0A-7636-4B7C-8701-E14DC8C00979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37F7E0A-7636-4B7C-8701-E14DC8C00979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
